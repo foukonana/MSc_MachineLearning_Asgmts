@@ -1,7 +1,7 @@
 *.xlsx
 *.csv
-*.pdf
 *.vscode
 *.png
+*.gitignore
 *Template*
 *Example*
