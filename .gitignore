@@ -2,6 +2,7 @@
 *.csv
 *.vscode
 *.png
-*.gitignore
+**HTRU*
+.gitignore 
 *Template*
 *Example*
