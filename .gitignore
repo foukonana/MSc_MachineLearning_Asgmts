@@ -4,5 +4,6 @@
 *.png
 **HTRU*
 .gitignore 
+*.log
 *Template*
 *Example*
